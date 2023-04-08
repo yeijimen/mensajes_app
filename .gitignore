@@ -1,0 +1,10 @@
+MensajesApp.iml
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/libraries/mysql_connector_java.xml
+Dependencies/mysql-connector-java-8.0.18.jar
+Dependencies/protobuf-java-3.6.1.jar
+out/production/MensajesApp/Conexion.class
+out/production/MensajesApp/Inicio.class
